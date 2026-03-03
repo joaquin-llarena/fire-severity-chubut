@@ -1,0 +1,22 @@
+# Sentinel SAFE products
+*.SAFE
+*.zip
+
+# Large raster files
+*.tif
+*.tiff
+
+# QGIS project files
+*.qgz~
+*.aux.xml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
